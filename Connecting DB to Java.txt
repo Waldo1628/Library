@@ -1,0 +1,18 @@
+Connecting DB to Java Program:
+
+First Steps (Downloading SQL Connector):
+=> Create a libs directory inside your project directory
+=> Place the sql connector jar file inside the libs folder created
+
+
+Connecting SQL connector to IDE:
+=> File => Project Structures => Modules from the left pane => Make sure your project name is selected
+=> Select "Dependencies" => Click on the '+' icon and select "JARs or Directories" => Select Apply and then OK
+
+
+Resource:
+Set up database:
+https://www.youtube.com/watch?v=duEkh8ZsFGs&ab_channel=CodeJava
+
+Download SQL Connector:
+https://dev.mysql.com/downloads/connector/j/
